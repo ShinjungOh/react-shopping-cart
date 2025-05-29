@@ -11515,8 +11515,7 @@ const Description$1 = newStyled.p`
   line-height: 150%;
   color: #0a0d13;
 `;
-var define_import_meta_env_default = { VITE_API_TOKEN: "U2hpbmp1bmdPaDpwYXNzd29yZA==", VITE_BASE_URL: "http://techcourse-lv2-alb-974870821.ap-northeast-2.elb.amazonaws.com", BASE_URL: "/react-shopping-cart/", MODE: "production", DEV: false, PROD: true, SSR: false };
-const USER_TOKEN = define_import_meta_env_default.VITE_USER_TOKEN;
+const USER_TOKEN = "U2hpbmp1bmdPaDpwYXNzd29yZA==";
 const BASE_URL = "http://techcourse-lv2-alb-974870821.ap-northeast-2.elb.amazonaws.com";
 const getCartItems = async () => {
   try {
